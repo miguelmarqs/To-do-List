@@ -1,0 +1,19 @@
+Fork this project in you machine and on terminal, run
+-npm i
+-npm start
+-```
+-
+-## 🤝 Contributing
+-
+-Contributions, issues and feature requests are welcome!
+-
+-## Show your support
+-
+-Give a ⭐️ if you like this project!
+-
+-## Acknowledgments
+-
+-- MDN
+-- W3Schools
+-- Stack Overflow
+-- etc
